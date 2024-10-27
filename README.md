@@ -1,1 +1,2 @@
-# JC_quant
+# Financial Analysis with a Quantitative Approach
+This project is a stepping stone in my journey as an aspiring Quantitative Analyst in the field of finance. It focuses on applying quantitative techniques to financial analysis, including data-driven models, statistical methods, and algorithmic trading strategies. The goal is to explore and build small-scale projects that analyze market trends, asset pricing, and portfolio optimization. Through this repository, I aim to enhance my skills in financial modeling, Python programming, and quantitative finance methodologies. Feel free to explore, contribute, or share feedback!
